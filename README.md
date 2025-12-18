@@ -1,12 +1,15 @@
-# Smart-Contact-Book
+# 📔Smart-Contact-Book
 Final project for DSA course.
 
-# Group Details  
-1. Name: Shahzaib Khan, Reg No: B24F0356CS037  
-2. Name: Muhammad Aihab, Reg No: B24F1655CS130
-3. Name: Sardar Sayyam, Reg No:B24F1642CS156
+#👥Group Details  
+1. Name: Shahzaib Khan
+      Reg No: B24F0356CS037
+3. Name: Muhammad Aihab
+      Reg No: B24F1655CS130
+5. Name: Sardar Sayyam
+      Reg No:B24F1642CS156
 
-# Project Title & Description
+# 📊Project Title & Description
 ## Project Title:
 Smart Contact Book
 
@@ -22,11 +25,16 @@ Delete contacts
 View and sort all contacts alphabetically
 The Smart Contact Book highlights how fundamental data structures and algorithms can be integrated into modern web applications to improve data management, efficiency, and usability.
 
-# Visuals
+# 🎨Visuals
 This Pictures maybe can't open, so i attached the files also;
 ![LoginPage](smart-contact-book/LoginPage.png)
 ![RegisterPage](smart-contact-book/RegisterPage.png)
 ![Homepage](smart-contact-book/HomePage.png)
+
+# 👨‍💻Author
+**Shahzaib Khan**
+1. GitHub: @its-shahzaib
+2. Email: shahzaibkhana2005@gmail.com
 
 # Supervision Note
 "This project was developed for the Data Structures and Algorithms (DSA) course
