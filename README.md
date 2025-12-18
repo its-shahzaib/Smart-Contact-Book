@@ -4,6 +4,7 @@ Final project for DSA course.
 # Group Details  
 1. Name: Shahzaib Khan, Reg No: B24F0356CS037  
 2. Name: Muhammad Aihab, Reg No: B24F1655CS130
+3. Name: Sardar Sayyam, Reg No:B24F1642CS156
 
 # Project Title & Description
 ## Project Title:
