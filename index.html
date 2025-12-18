@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card">
+  <div class="card-row">
+    <div>
+      <h2>Add Contact</h2>
+      <form id="addForm">
+        <input id="name" placeholder="Full name" required />
+        <input id="phone" placeholder="Phone number" required />
+        <input id="email" placeholder="Email (optional)" />
+        <button type="submit" class="btn">Add</button>
+      </form>
+    </div>
+    <div>
+      <h2>Search / Sort</h2>
+      <input id="searchInput" placeholder="Search by name or phone" />
+      <div class="controls">
+        <button id="sortBtn" class="btn small">Sort A→Z</button>
+        <button id="refreshBtn" class="btn small outline">Refresh</button>
+      </div>
+    </div>
+  </div>
+
+  <h2>Contacts</h2>
+  <div id="contactsList" class="contacts-grid"></div>
+</div>
+{% endblock %}

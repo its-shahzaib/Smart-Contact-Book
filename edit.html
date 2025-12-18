@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card small">
+  <h2>Edit Contact</h2>
+  <form id="editForm">
+    <input id="ename" placeholder="Full name" required />
+    <input id="ephone" placeholder="Phone number" required />
+    <input id="eemail" placeholder="Email (optional)" />
+    <div class="controls">
+      <button type="submit" class="btn">Save</button>
+      <a class="btn outline" href="/">Cancel</a>
+    </div>
+  </form>
+</div>
+<script>
+  const contactId = {{ contact_id }};
+</script>
+{% endblock %}

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Smart Contact Book</title>
+  <link rel="stylesheet" href="/static/css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <h1>Smart Contact Book</h1>
+      <div>
+        {% if session.get('username') %}
+          <span class="muted">Hi, {{ session['username'] }}</span>
+          <a class="link" href="/export_csv">Export CSV</a>
+          <a class="link" href="/logout">Logout</a>
+        {% else %}
+          <a class="link" href="/login">Login</a>
+          <a class="link" href="/register">Register</a>
+        {% endif %}
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer class="footer">
+    <div class="container">Built for DSA project • Login & CSV export included</div>
+  </footer>
+
+  <script src="/static/js/main.js"></script>
+</body>
+</html>

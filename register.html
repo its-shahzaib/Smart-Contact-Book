@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="card small">
+  <h2>Register</h2>
+  {% if error %}<p style="color:#b91c1c">{{ error }}</p>{% endif %}
+  <form method="post">
+    <input name="username" placeholder="Choose username" required />
+    <input name="password" placeholder="Choose password" type="password" required />
+    <div class="controls">
+      <button class="btn">Create account</button>
+      <a class="btn outline" href="/login">Login</a>
+    </div>
+  </form>
+</div>
+{% endblock %}
