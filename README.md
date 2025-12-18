@@ -33,6 +33,7 @@ Smart Contact Book Project ScreenShot has been added in the files and also you c
 1. LinkedIn:https://www.linkedin.com/in/its-shahzaib/
 2. Email: shahzaibkhana2005@gmail.com
 
-# Supervision Note
+# 🧑🏻‍💻Supervision Note
 "This project was developed for the Data Structures and Algorithms (DSA) course
 under the supervision of Lab Engineer Obaidullah Miakhil."
+LinkedIn: https://www.linkedin.com/in/obaidullah-miakhil-b28a16248/
