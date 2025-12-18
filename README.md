@@ -26,7 +26,7 @@ View and sort all contacts alphabetically
 The Smart Contact Book highlights how fundamental data structures and algorithms can be integrated into modern web applications to improve data management, efficiency, and usability.
 
 # 🎨Visuals
-Smart Contact Book Project ScreenShot has been added in the files and also you can watch complete video on my LinkedIn: @its-shahzaib
+Smart Contact Book Project ScreenShot has been added in the files and also you can watch complete video on my LinkedIn:www.linkedin.com/in/its-shahzaib
 
 # 👨‍💻Author
 **Shahzaib Khan**
