@@ -33,7 +33,7 @@ This Pictures maybe can't open, so i attached the files also;
 
 # 👨‍💻Author
 **Shahzaib Khan**
-1. GitHub: @its-shahzaib
+1. GitHub:https://www.linkedin.com/in/its-shahzaib/
 2. Email: shahzaibkhana2005@gmail.com
 
 # Supervision Note
