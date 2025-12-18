@@ -22,10 +22,9 @@ View and sort all contacts alphabetically
 The Smart Contact Book highlights how fundamental data structures and algorithms can be integrated into modern web applications to improve data management, efficiency, and usability.
 
 # Visuals
-## Demo Video / Screenshots:
-(Add screenshots here)
-OR  
-(Add Google Drive / YouTube link of demo video)
+![LoginPage](smart-contact-book/LoginPage.png)
+![RegisterPage](smart-contact-book/RegisterPage.png)
+![Homepage](smart-contact-book/HomePage.png)
 
 # Supervision Note
 "This project was developed for the Data Structures and Algorithms (DSA) course
