@@ -23,6 +23,7 @@ View and sort all contacts alphabetically
 The Smart Contact Book highlights how fundamental data structures and algorithms can be integrated into modern web applications to improve data management, efficiency, and usability.
 
 # Visuals
+This Pictures maybe can't open, so i attached the files also;
 ![LoginPage](smart-contact-book/LoginPage.png)
 ![RegisterPage](smart-contact-book/RegisterPage.png)
 ![Homepage](smart-contact-book/HomePage.png)
